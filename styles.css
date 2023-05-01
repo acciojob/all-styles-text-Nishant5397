@@ -3,7 +3,7 @@ body {
 	padding: 0;
 }
 
-.container {
+.main {
 	width: 200px;
 	background-color: purple;
 	padding: 10px;
@@ -11,7 +11,7 @@ body {
 	padding-left: 10px;
 }
 
-.container h2 {
+.heading h2 {
 	font-size: 20px;
 	color: white;
 }
