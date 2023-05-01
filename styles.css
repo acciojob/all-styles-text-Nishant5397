@@ -1,12 +1,12 @@
 .main{
 	width: 200px;
     background-color: purple;
-    border-left: 5px green;
+    border-left-width: 5px green;
     padding: 10px;
 	
 }
 .main .heading{
-
+   
     font-size: 20px;
     color: white;
 }
